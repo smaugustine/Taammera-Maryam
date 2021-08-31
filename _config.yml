@@ -1,0 +1,31 @@
+collections:
+  miracles:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "miracles"
+    values:
+      layout: "miracle"
+  -
+    scope:
+      path: "_miracles/basil/*"
+    values:
+      cycle: "How Saint Basil Obtained a Miraculous Icon for the Church of the Virgin Mary"
+  -
+    scope:
+      path: "_miracles/john/*"
+    values:
+      cycle: "The Vision of John"
+  -
+    scope:
+      path: "_miracles/qwesqwam/*"
+    values:
+      cycle: "The Vision of Anthony of Mount Koskam"
+  -
+    scope:
+      path: "_miracles/theophilus/*"
+    values:
+      cycle: "The Vision of Theophilus"

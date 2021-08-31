@@ -1,0 +1,59 @@
+html
+  background: hsl(0, 0%, 98%)
+  
+body
+  background: #F9F5E9
+  color: #333333
+  font-family: 'EB Garamond', 'Noto Serif', serif
+
+  a
+    color: #0072C9
+    
+    &.button.is-link.is-outlined
+      color: #0072C9
+      border-color: #0072C9
+
+      &:hover, &:focus
+        background-color: #0072C9
+
+  .content ol>li>ol
+    margin-top: 0
+
+    li
+      list-style-type: lower-roman
+
+      &:last-child
+        margin-bottom: 1em
+
+  ol#miracle-list, ol#cycle-list, ul
+    @media screen and (min-width: 769px), print
+      columns: 2
+
+  .content>ul
+    margin: 0
+  
+  ul>li
+    list-style: none
+
+  .content ul>li>ul
+    columns: 1
+    margin-top: 0
+
+    li
+      list-style: disc
+
+  p.preface:only-child
+    @media screen and (min-width: 769px), print
+      margin-top: calc(2.5rem + 6px)
+
+  p.verse
+    em
+      padding-left: 1.5em
+      text-indent: -1.5em
+      display: block
+
+  abbr
+    text-decoration: none
+
+  footer.footer
+    border-top: 1px solid hsl(0, 0%, 71%)

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      {% unless page.cycle %}
+      {{ page.title }}
+      {% else %}
+      {{ page.cycle }}: {{ page.title }}
+      {% endunless %}
+    </title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+  <body>
+  <section class="section">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-2-desktop is-1-tablet has-text-right-tablet">
+          <a href="{{ site.url }}" class="button is-link is-outlined">
+            &larr;
+            <span class="is-hidden-tablet-only">All Miracles</span>
+          </a>
+        </div>
+        <div class="column is-8-desktop is-10-tablet">
+          {% unless page.cycle %}
+          <h1 class="title">{{ page.title }}</h1>
+          {% else %}
+          <h1 class="title">{{ page.cycle }}</h1>
+          <h1 class="subtitle">{{ page.title }}</h1>
+          {% endunless %}
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="column is-8-desktop is-offset-2-desktop is-10-tablet is-offset-1-tablet">
+          <article id="content" class="content">
+            {{ content }}
+          </article>
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="column is-8-desktop is-offset-2-desktop is-10-tablet is-offset-1-tablet has-text-right">
+          <span class="tag is-dark">
+            <abbr title="Clavis Aethiopica">CAe</abbr>
+            &nbsp;{{ page.clavis }}
+          </span>
+          <span class="tag is-dark">
+            <abbr title="Princeton Ethiopian Miracles of Mary Project">PEMM</abbr>
+            &nbsp;{{ page.pemm }}
+          </span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% include footer.html %}
+
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script>
+    $(document).ready(function() {
+      $('article#content>blockquote>p').each(function() {
+        $(this).insertBefore($(this).parent());
+        $(this).addClass('verse');
+      });
+      $('article#content>blockquote').remove();
+
+      var ethiopic = $('article#content>p:first-of-type').nextUntil('hr').addBack().attr('lang', 'gez').toArray();
+      var english = $('article#content>p:last-of-type').prevUntil('hr').addBack().attr('lang', 'en').toArray();
+      
+      var footnotes = $('div.footnotes').addClass('column is-8 is-offset-2 content');
+      $('<h2 class="title is-5"/>').text('Footnotes').prependTo($(footnotes));
+
+      $('article#content').html('').removeClass('content').append($('<div class="columns is-multiline"/>'));
+
+      $.each(ethiopic, function(i, elem) {
+        $('<div class="column is-half"/>').append(elem).appendTo($('article#content>div'));
+        $('<div class="column is-half"/>').append(english[i]).appendTo($('article#content>div'));
+      });
+      
+      $('<div class="columns"/>').insertAfter($('article#content').parent().parent()).append($(footnotes));
+      
+    });
+  </script>
+  </body>
+</html>

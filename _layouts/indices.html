@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Indices for the Miracles of Mary</title>
+    <meta name="description" content="Selected short miracles of the Virgin Mary edited and translated from Ethiopic by Augustine Dickinson.">
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+  <body>
+  <section class="section">
+    <div class="container">
+      <div class="columns is-multiline">
+        <div class="column is-2-desktop is-1-tablet has-text-right-tablet">
+          <a href="{{ site.url }}" class="button is-link is-outlined">
+            &larr;
+            <span class="is-hidden-tablet-only">All Miracles</span>
+          </a>
+        </div>
+        <div class="column is-8-desktop is-10-tablet">
+          <div class="content">
+            <h1 id="people" class="title">Index of People</h1>
+            {% include index-of.html type="people" %}
+          </div>
+        </div>
+        <div class="column is-8-desktop is-offset-2-desktop is-10-tablet is-offset-1-tablet">
+          <div class="content">
+            <h1 id="places" class="title">Index of Places</h1>
+            {% include index-of.html type="places" %}
+          </div>
+        </div>
+        <div class="column is-8-desktop is-offset-2-desktop is-10-tablet is-offset-1-tablet">
+          <div class="content">
+            <h1 id="general" class="title">General Index</h1>
+            {% include index-of.html type="general" %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% include footer.html %}
+  </body>
+</html>

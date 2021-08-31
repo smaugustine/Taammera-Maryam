@@ -1,0 +1,20 @@
+<ul>
+{% assign index = site.miracles | map: include.type | uniq %}
+{% assign sorted_index = index | sort_natural | pop %}
+{% for item in sorted_index %}
+  <li>
+    <strong>{{ item }}</strong>
+    <ul>
+      {% assign miracles = site.miracles | sort_natural: "pemm" | where: include.type, item %}
+      {% for miracle in miracles %}
+        <li>
+          <a href="{{ miracle.url }}">
+            <!--{% if miracle.cycle %}{{ miracle.cycle }}: {% endif %}-->
+            {{ miracle.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>

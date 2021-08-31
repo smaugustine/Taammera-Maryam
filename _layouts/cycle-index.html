@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+  <body>
+  <section class="section">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-2 has-text-right-tablet">
+          <a href="{{ site.url }}" class="button is-link is-outlined">
+            &larr;
+            <span class="is-hidden-tablet-only">All Miracles</span>
+          </a>
+        </div>
+        <div class="column is-8">
+          <h1 class="title">{{ page.title }}</h1>
+        </div>
+      </div>
+
+      {% assign miracles = site.miracles | where: "cycle", page.title %}
+      {% for miracle in miracles %}
+      {% unless forloop.last %}
+        <div class="columns">
+          <div class="column is-8 is-offset-2">
+            <article id="content-{{forloop.index}}" class="content">
+              <h1 class="title is-5"><a href="{{ miracle.url }}" style="color: inherit;">{{ forloop.index }}. {{ miracle.title }}</a></h1>
+              {{ miracle.content }}
+            </article>
+          </div>
+        </div>
+      {% endunless %}
+      {% endfor %}
+    </div>
+  </section>
+
+  {% include footer.html %}
+
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script>
+    $(document).ready(function() {
+      $('article>blockquote').remove();
+      $('div.footnotes').remove();
+      $('sup').remove();
+
+      var x = $('article').length;
+
+      $('article').each(function(j){
+        var article = $(this);
+
+        var ethiopic = $(article).children('h1').nextUntil('hr').addBack().toArray();
+        var english = $(article).children('p:last-of-type').prevUntil('hr').addBack().toArray();
+        
+        $(article).html('').removeClass('content').append($('<div class="columns is-multiline"/>'));
+
+        $.each(ethiopic, function(i, elem) {
+          if($(elem).is('h1')) {
+            $('<div class="column is-full"/>').append(elem).appendTo($(article).children('div'));
+          }
+          else if(i == 1 && j != 0) {}
+          else if(i == ethiopic.length-1 && j != x-1) {}
+          else {
+            $('<div class="column is-half"/>').append(elem).appendTo($(article).children('div'));
+            $('<div class="column is-half"/>').append(english[i-1]).appendTo($(article).children('div'));
+          }
+        });
+      });
+      
+    });
+  </script>
+  </body>
+</html>
