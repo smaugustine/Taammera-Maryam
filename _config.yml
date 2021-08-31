@@ -7,7 +7,6 @@ collections:
 defaults:
   -
     scope:
-      path: ""
       type: "miracles"
     values:
       layout: "miracle"
@@ -16,6 +15,11 @@ defaults:
       path: "_miracles/basil/*"
     values:
       cycle: "How Saint Basil Obtained a Miraculous Icon for the Church of the Virgin Mary"
+  -
+    scope:
+      path: "_miracles/giyorgis/*"
+    values:
+      cycle: "How Mary Loves the Liturgy of the Hours of Abba Giyorgis"
   -
     scope:
       path: "_miracles/john/*"
