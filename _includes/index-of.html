@@ -8,7 +8,7 @@
       {% assign miracles = site.miracles | sort_natural: "pemm" | where: include.type, item %}
       {% for miracle in miracles %}
         <li>
-          <a href="{{ miracle.url }}">
+          <a href="{{ site.url }}{{ miracle.url }}">
             <!--{% if miracle.cycle %}{{ miracle.cycle }}: {% endif %}-->
             {{ miracle.title }}
           </a>

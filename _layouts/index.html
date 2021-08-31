@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>ተኣምረ፡ ማርያም፡ | Miracles of Mary</title>
     <meta name="description" content="Selected short miracles of the Virgin Mary edited and translated from Ethiopic by Augustine Dickinson.">
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
   </head>
   <body>
   <section class="section">
@@ -30,7 +30,7 @@
             {% assign miracles = site.miracles | sort_natural: "pemm" %}
             {% for miracle in miracles %}
               {% unless miracle.cycle %}
-              <li><a href="{{ miracle.url }}">{{ miracle.title }}</a></li>
+              <li><a href="{{ site.url }}{{ miracle.url }}">{{ miracle.title }}</a></li>
               {% endunless %}
             {% endfor %}
             </ol>
@@ -46,11 +46,11 @@
               {% if cycle.items[0].cycle %}
               {% assign subdir = cycle.items[0].url | remove: cycle.items[0].slug | remove: '.html' %}
               <li>
-                <a href="{{ subdir }}"><strong>{{ cycle.name }}</strong></a>
+                <a href="{{ site.url }}{{ subdir }}"><strong>{{ cycle.name }}</strong></a>
                 <ol>
                 {% for miracle in cycle.items %}
                   {% unless forloop.last %}
-                  <li><a href="{{ miracle.url }}">{{ miracle.title }}</a></li>
+                  <li><a href="{{ site.url }}{{ miracle.url }}">{{ miracle.title }}</a></li>
                   {% endunless %}
                 {% endfor %}
                 </ol>

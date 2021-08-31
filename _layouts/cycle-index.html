@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
   </head>
   <body>
   <section class="section">
@@ -27,7 +27,7 @@
         <div class="columns">
           <div class="column is-8 is-offset-2">
             <article id="content-{{forloop.index}}" class="content">
-              <h1 class="title is-5"><a href="{{ miracle.url }}" style="color: inherit;">{{ forloop.index }}. {{ miracle.title }}</a></h1>
+              <h1 class="title is-5"><a href="{{ site.url }}{{ miracle.url }}" style="color: inherit;">{{ forloop.index }}. {{ miracle.title }}</a></h1>
               {{ miracle.content }}
             </article>
           </div>
