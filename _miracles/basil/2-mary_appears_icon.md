@@ -2,7 +2,7 @@
 title: Mary Appears to Basil and Tells Him of a Buried Icon
 pemm: 256
 clavis: 3686
-people: [Basil (archbishop), Irene (martyr), Sophia (martyr)]
+people: [Basil of Caesarea (archbishop), Irene (martyr), Sophia (martyr)]
 general: [icon]
 ---
 ተአምሪሃ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፨ ጸሎታ፡ ወበረከታ፡ ወምሕረተ፡ ፍቁር፡ ወልዳ፡ የሀሉ፡ ምስሌነ፡ ለዓለመ፡ ዓለም፡ አሜን፨
@@ -31,4 +31,4 @@ Saint Basil said, "While I, poor Basil, was sleeping, I saw a vision and behold!
 
 May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
 
-[^1]: Ps. 140:6
+[^1]: Psalm 140:6

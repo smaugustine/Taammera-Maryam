@@ -2,7 +2,7 @@
 title: Basil Finds a Buried Icon of Mary and Brings It to the Church
 pemm: 257
 clavis: 5202
-people: [Basil (archbishop), Ira (archpriest), Theodore (priest), Felicius (deacon), Anestimos (deacon)]
+people: [Basil of Caesarea (archbishop), Ira (archpriest), Theodore (priest), Felicius (deacon), Anestimos (deacon)]
 general: [icon, oil]
 ---
 ተአምሪሃ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፨ ጸሎታ፡ ወበረከታ፡ ወምሕረተ፡ ፍቁር፡ ወልዳ፡ የሀሉ፡ ምስሌነ፡ ለዓለመ፡ ዓለም፡ አሜን፨

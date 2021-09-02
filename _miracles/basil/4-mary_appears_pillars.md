@@ -2,8 +2,8 @@
 title: Mary Appears to Basil and Tells Him to Take the Pillars of a Pagan Temple
 pemm: 258
 clavis: 5203
-people: [Basil (archbishop), Habakkuk (prophet), Daniel (prophet), Ira (archpriest), Jesus Christ]
-general: [pillar, sorcerer]
+people: [Basil of Caesarea (archbishop), Habakkuk (prophet), Daniel (prophet), Ira (archpriest)]
+general: [pillar, sorcerer, idol]
 ---
 ተአምሪሃ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፨ ጸሎታ፡ ወበረከታ፡ ወምሕረተ፡ ፍቁር፡ ወልዳ፡ የሀሉ፡ ምስሌነ፡ ለዓለመ፡ ዓለም፡ አሜን፨
 
@@ -31,7 +31,7 @@ Saint Basil said, "Again, as before, Our Lady, the holy twofold Virgin Mary, the
 
 "When the sun arose, I had the people assemble and told them what I saw. Ira, the archpriest, responded to me, saying, 'O my father, we will do this task. I believe in the Lord, that He will make right our hearts with which we search. Take some parchment and inscribe upon it the image of the Holy Cross, then the Name of Our Lord Jesus Christ and the name of the Virgin Mary and the names of the seven archangels. Take a rod and hang upon it the Cross and we will go to the idolatrous temple. I know that Our Lord Jesus Christ will accomplish for us what we ask of Him.'
 
-"I did as he said, taking a rod and placing it upon the pillars and they rolled before us until they arrived near the city. Then, we came upon sorcerers who ? ?, performing works of sorcery they seized the pilars in the middle of the city. All the people cried out with one voice, saying, '*Kyrie eleison*!'[^2]
+"I did as he said, taking a rod and placing it upon the pillars and they rolled before us until they arrived near the city. Then, we came upon sorcerers (whom we mentioned earlier) and, performing works of sorcery, they seized the pillars in the middle of the city. All the people cried out with one voice, saying, '*Kyrie eleison*!'[^2]
 
 "When the sun set and it became night, we were exhausted from the many labours of the day and the people went to their homes in peace until the next day.
 
@@ -40,4 +40,4 @@ Saint Basil said, "Again, as before, Our Lady, the holy twofold Virgin Mary, the
 May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
 
 [^1]: cf. Daniel 13:33-39
-[^2]: Greek for "Lord have mercy"
+[^2]: 'Lord have mercy'

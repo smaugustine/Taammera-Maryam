@@ -2,7 +2,7 @@
 title: The Rich Man Who Refused to Give Basil a Board for an Icon of Mary
 pemm: 124
 clavis: 5201
-people: [Basil (archbishop)]
+people: [Basil of Caesarea (archbishop)]
 general: [icon, rich man]
 ---
 ተአምሪሃ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፨ ጸሎታ፡ ወበረከታ፡ ወምሕረተ፡ ፍቁር፡ ወልዳ፡ የሀሉ፡ ምስሌነ፡ ለዓለመ፡ ዓለም፡ አሜን፨
@@ -31,5 +31,5 @@ They saw the sign which Our Lady, the holy twofold Virgin Mary, the Birth-giver 
 
 May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
 
-[^1]: Lk. 16:9
-[^2]: Cf. the prayer of Mary in Lk. 1:51-52
+[^1]: Luke 16:9
+[^2]: Cf. the prayer of Mary in Luke 1:51-52

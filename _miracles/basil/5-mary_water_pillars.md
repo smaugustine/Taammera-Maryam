@@ -2,7 +2,7 @@
 title: Mary Appears to Basil and Causes Healing Water to Spring from the Pillars of the Church
 pemm: 259
 clavis: 5204
-people: [Basil (archbishop), Jesus Christ, David (prophet)]
+people: [Basil of Caesarea (archbishop), David (prophet)]
 general: [icon, pillar, sorcerer, blindness, leprosy, spring (of water)]
 ---
 ተአምሪሃ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፨ ጸሎታ፡ ወበረከታ፡ ወምሕረተ፡ ፍቁር፡ ወልዳ፡ የሀሉ፡ ምስሌነ፡ ለዓለመ፡ ዓለም፡ አሜን፨
@@ -35,5 +35,5 @@ Saint Basil said, "While I was standing in prayer, a light sleep came upon me an
 
 May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
 
-[^1]: Ps. 64:3
+[^1]: Psalm 64:3
 [^2]: June 28
