@@ -1,5 +1,5 @@
 ---
-title: The Fisherman Swallowed by a Serpent
+title: How a Fisherman was Saved After Being Eaten by a Serpent
 pemm: 465
 clavis: 5416
 people: [Ephrem (monk)]
@@ -32,4 +32,4 @@ Ten days and ten nights after the serpent had devoured him, Ephrem came out of t
   
 May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
 
-[^1]: I.e., the prayer which begins, "In the salutation of St. Gabriel the angel, O Our Lady Mary, salutation to you..." (በሰላመ፡ ቅዱስ፡ ገብርኤል፡ መልአክ፡ ኦእግዝእትነ፡ ማርያም፡ ሰላም፡ ለኪ፨)
+[^1]: i.e., the prayer which begins, "In the salutation of St. Gabriel the angel, O Our Lady Mary, salutation to you..." (በሰላመ፡ ቅዱስ፡ ገብርኤል፡ መልአክ፡ ኦእግዝእትነ፡ ማርያም፡ ሰላም፡ ለኪ፨)

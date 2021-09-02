@@ -1,14 +1,14 @@
 ---
-title: Mary Receives the Covenant of Mercy
+title: "16 Yakkātit: Mary Receives the Covenant of Mercy"
 pemm: 470
 clavis: 3677
 people: [Jesus Christ, John (apostle), Abraham (patriarch), Isaac (patriarch), Jacob (patriarch), David (prophet)]
 places: [Golgotha, Heaven, Hell]
-general: [Covenant of Mercy]
+general: [Covenant of Mercy, Yakkātit]
 ---
 ተአምሪሃ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪፡ ማርያም፡ ወላዲተ፡ አምላክ፨ ጸሎታ፡ ወበረከታ፡ ወምሕረተ፡ ፍቁር፡ ወልዳ፡ የሀሉ፡ ምስሌነ፡ ለዓለመ፡ ዓለም፡ አሜን፨
 
-በዛቲ፡ ዕለት፡ ካዕበ፡ ይገብሩ፡ በዓለ፡ ኵሎሙ፡ ዘመደ፡ ክርስቲያን፡ ለእግዝእትነ፡ ማርያም፡ ወላዲተ፡ አምላክ፡ በዘነሥአት፡ ቦቱ፡ ኪዳነ፡ ምሕረት፡ እምወልዳ፡ እግዚእነ፡ መድኃኒነ፡ ኢየሱስ፡ ክርስቶስ፡ ለዘይገብር፡ ተዝካራ፡ ወለዘይጼውዕ፡ ስማ፡ ወለዘይሁብ፡ ምጽዋተ፡ ለነዳያን፡ እስከ፡ ማይ፡ ቈሪር።
+በከመ፡ ተረክበ፡ በመጽሐፈ፡ ስንክሳር፡ አመ፡ ፲ወ፮፡ ለየካቲት፡ በዛቲ፡ ዕለት፡ ካዕበ፡ ይገብሩ፡ በዓለ፡ ኵሎሙ፡ ዘመደ፡ ክርስቲያን፡ ለእግዝእትነ፡ ማርያም፡ ወላዲተ፡ አምላክ፡ በዘነሥአት፡ ቦቱ፡ ኪዳነ፡ ምሕረት፡ እምወልዳ፡ እግዚእነ፡ መድኃኒነ፡ ኢየሱስ፡ ክርስቶስ፡ ለዘይገብር፡ ተዝካራ፡ ወለዘይጼውዕ፡ ስማ፡ ወለዘይሁብ፡ ምጽዋተ፡ ለነዳያን፡ እስከ፡ ማይ፡ ቈሪር።
 
 ወዛቲ፡ ቅድስት፡ ማርያም፡ እምድኅረ፡ ዐርገ፡ ወልዳ፡ ውስተ፡ ሰማይ፡ ነሲኦ፡ ሥጋሃ፡ ንጹሐ፡ ወነበረ፡ በየማነ፡ አቡሁ፡ ፈጺሞ፡ ኵሎ፡ ሕገ፡ ትስብእት፡ ዘእንበለ፡ ኃጢአት፡ ባሕቲታ፡ ወሰሊጦ፡ ሕማማተ፡ መስቀል፡ በሥምረቱ፡ ወበፈቃዱ፡ ዘገብሮ፡ በእንተ፡ መድኃኒትነ፡ ወኃደጋ፡ ለእሙ፡ ማርያም፡ ውስተ፡ ቤተ፡ ዮሐንስ፡ ረድኡ፡ ዘያፈቅር፡ በከመ፡ አማኅፀና፡ ለሊሁ፡ እንዘ፡ ይብል፡ ነዋ፡ ወልድኪ፡ ወይቤሎ፡ ለውእቱ፡ ረድእ፡ ነያ፡ እምከ፡ ወእመአሜሃ፡ ነበረት፡ እግዝእትነ፡ ማርያም፡ እንዘ፡ ተሐውር፡ ኀበ፡ መቃብረ፡ ወልዳ፡ ዘውእቱ፡ ጎልጎታ፡ ከመ፡ ትጼሊ፡ ህየ። ወሶበ፡ ርእይዋ፡ አይሁድ፡ መልኡ፡ መዐተ፡ ወቅንዓተ፡ ወፈቀዱ፡ ከመ፡ ይውግርዋ፡ ወሰወራ፡ እግዚአብሔር፡ እምአዕይንቲሆሙ፡ ወእምዝ፡ ተማከሩ፡ ከመ፡ ይሢሙ፡ ዐቀብተ፡ ውስተ፡ መቃብሩ፡ ከመ፡ ኢትብጻሕ፡ ዳግመ፡ ትጼሊ፡ በህየ፡ ወይእቲሰ፡ ኢታጸርዕ፡ ሐዊረ፡ ለለዕለቱ፡ ወዐቅብትሰ፡ ኢይሬእይዋ፡ እስመ፡ ሠወራ፡ መንጦላዕተ፡ ስብሐቲሁ፡ ለወልዳ።
 
@@ -36,13 +36,13 @@ general: [Covenant of Mercy]
 
 A miracle of Our Lady, the holy twofold Virgin Mary, the Birth-giver of God. May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
 
-On this day the entire Christian people celebrates the feast of Our Lady Mary, the Mother of God, on the day on which she received the Covenant of Mercy from her son, Our Lord and Saviour Jesus Christ, for those who celebrate her memory and who call on her name and who give alms to the poor, even just some cold water.
+As is found in the *Synaxary* for the 16th of *Yakkātit*:[^1] on this day the entire Christian people celebrates the feast of Our Lady Mary, the Mother of God, on the day on which she received the Covenant of Mercy from her son, Our Lord and Saviour Jesus Christ, for those who celebrate her memory and who call on her name and who give alms to the poor, even just some cold water.
 
 And this holy Mary, after her son ascended to heaven, having taken on her pure flesh and sat at the right hand of His Father, having fulfilled the entire law, having become man, except that He was without sin, having accepted the suffering of the Cross of His own favour and His own will, which He did for our salvation, and after He left His mother Mary in the house of John, His disciple, whom He loved — as He entrusted her to him, saying, “Behold your son,” and said to that disciple, “Behold your mother,” and from that time on Our Lady Mary lived there — she would go to the tomb of her son, which was Golgotha, in order to pray there. And when the Jews saw her, they were filled with wrath and envy and they wished to stone her, but the Lord hid her from their eyes. Then they took council, that they might set guards over His tomb in order that she might not come again to pray there. But she did not cease from coming each night. And the guards did not see her, for the veil of the glory of her son covered her.
 
 And at all times, angels came to her to serve her, and her son, Our Lord Jesus Christ, would visit her often and fulfill all that she desired. And the angels would take her up to heaven and show her the place of rest for the righteous, where Abraham, Isaac, and Jacob dwell. And all the souls of the fathers, those who died from Adam until that time, welcomed her and bowed to her, saying, “Glory to the Lord Who created you for us, flesh of our flesh, bone of our bones. In you we have found salvation, and you have become a harbour of life from corruption through the incarnation of the Son of God from you."
 
-And from there the angels led her and brought her to her beloved son and to His throne and they drew back the curtains of flames of fire on the right and the left. And Our Lord took her hand, kissed her mouth, and said to her, “Have you come, O my mother?” And He took her up to the throne of His glory and enthroned her with Him and told her of the joy and happiness — which no eye has seen and no ear has heard and no heart of men has considered — which He prepared for her. And beneath the throne of His glory she saw David, her father, the King of Israel, with the entire assembly of the prophets and angels and the souls of the righteous standing in a circle around her, like a wall, singing to the lyre, saying, “Listen, my daughter, and see, and make your ears attentive. Forget your people and your father’s house, for the King desired your beauty, and He is your Lord”.[^1]
+And from there the angels led her and brought her to her beloved son and to His throne and they drew back the curtains of flames of fire on the right and the left. And Our Lord took her hand, kissed her mouth, and said to her, “Have you come, O my mother?” And He took her up to the throne of His glory and enthroned her with Him and told her of the joy and happiness — which no eye has seen and no ear has heard and no heart of men has considered — which He prepared for her. And beneath the throne of His glory she saw David, her father, the King of Israel, with the entire assembly of the prophets and angels and the souls of the righteous standing in a circle around her, like a wall, singing to the lyre, saying, “Listen, my daughter, and see, and make your ears attentive. Forget your people and your father’s house, for the King desired your beauty, and He is your Lord”.[^2]
 
 And from there, the angels again led her, so that she might see the place of judgement. And they brought her to the edge of the darkness which is prepared for sinners and for Satan and his hosts and for all those who walk in his ways. And Our Lady Mary said, “Woe to me! Who will tell the sons of men, that they should not come here?” And the angel said to her, “Do not be afraid, O Mary: the Lord is with you and with those after you also." And then the angels carried her and brought her back to her place.
 
@@ -60,4 +60,5 @@ May her prayer and blessing and the mercy of her beloved son be with us unto age
 >*Compassionate of heart for sinners, compassionate of heart for the sorrowful,*
 >*Compassionate of heart for the oppressed, truly Mary is.*
 
-[^1]: Ps. 44:11-12
+[^1]: Psalm 44:11-12
+[^2]: February 23/4

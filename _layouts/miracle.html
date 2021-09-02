@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
+    {% include head.html title=page.title %}
   </head>
   <body>
   <section class="section">
@@ -36,14 +33,18 @@
 
       <div class="columns">
         <div class="column is-8-desktop is-offset-2-desktop is-10-tablet is-offset-1-tablet has-text-right">
+          {% if page.clavis %}
           <span class="tag is-dark">
             <abbr title="Clavis Aethiopica">CAe</abbr>
             &nbsp;{{ page.clavis }}
           </span>
+          {% endif %}
+          {% if page.pemm %}
           <span class="tag is-dark">
             <abbr title="Princeton Ethiopian Miracles of Mary Project">PEMM</abbr>
             &nbsp;{{ page.pemm }}
           </span>
+          {% endif %}
         </div>
       </div>
     </div>

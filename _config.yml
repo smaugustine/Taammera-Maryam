@@ -29,7 +29,12 @@ defaults:
     scope:
       path: "_miracles/qwesqwam/*"
     values:
-      cycle: "The Vision of Anthony of Mount Koskam"
+      cycle: "The Vision of Anthony of Qusqam"
+  -
+    scope:
+      path: "_miracles/synaxary/*"
+    values:
+      cycle: "The Miracles of Mary from the Synaxary"
   -
     scope:
       path: "_miracles/theophilus/*"

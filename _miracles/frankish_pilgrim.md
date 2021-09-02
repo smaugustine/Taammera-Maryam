@@ -1,5 +1,5 @@
 ---
-title: The Frankish Pilgrim at Saidnaya
+title: How a Pilgrim at Saidnaya Tried to Take a Piece of the Icon of Mary
 pemm: 439
 clavis: 3635
 places: [Saidnaya (Syria), Francia (Europe)]
