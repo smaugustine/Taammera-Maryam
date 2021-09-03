@@ -1,5 +1,5 @@
 ---
-title: "16 Yakkātit: Mary Receives the Covenant of Mercy"
+title: "16 Yakkātit: How Mary Received the Covenant of Mercy"
 pemm: 470
 clavis: 3677
 people: [Jesus Christ, John (apostle), Abraham (patriarch), Isaac (patriarch), Jacob (patriarch), David (prophet)]
