@@ -23,7 +23,7 @@
             <h1 class="title is-5">Miracles</h1>
 
             <ol id="miracle-list">
-            {% assign miracles = site.miracles | sort_natural: "pemm" %}
+            {% assign miracles = site.miracles %}
             {% for miracle in miracles %}
               {% unless miracle.cycle %}
               <li><a href="{{ site.url }}{{ miracle.url }}">{{ miracle.title }}</a></li>

@@ -2,7 +2,7 @@
 title: Mary Tells Theophilus of the Magi
 pemm: 1-A
 clavis: 5092
-people: [Theophilus (patriarch), Herod (king)]
+people: [Theophilus of Alexandria (patriarch), Herod (king)]
 places: [Bethlehem, Jerusalem]
 general: [star]
 ---
@@ -23,6 +23,8 @@ general: [star]
 ጸሎታ፡ ወበረከታ፡ ወምሕረተ፡ ፍቁር፡ ወልዳ፡ የሀሉ፡ ምስሌነ፡ ለዓለመ፡ ዓለም፡ አሜን፨
 
 ----
+
+A miracle of Our Lady, the holy twofold Virgin Mary, the Birth-giver of God. May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
 
 A miracle of Our Lady, the holy twofold Virgin Mary, the Birth-giver of God. May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
 

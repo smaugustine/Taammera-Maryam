@@ -23,11 +23,11 @@ general: [icon, pillar, sorcerer, blindness, leprosy, spring (of water)]
 
 A miracle of Our Lady, the holy twofold Virgin Mary, the Birth-giver of God. May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
 
-Saint Basil said, "While I was standing in prayer, a light sleep came upon me and I saw a shining woman standing before me. She said to me, 'O Basil, why are you troubled in your heart over the pillars? Or have you not heard the words of David, "The words of the unjust have overcome us; And You O Lord will forgive us our sins."[^1] And now behold! My son Jesus Christ will command the pillars to stand in their places in front of the wall of the sanctuary. As for the sorcerers, behold, they shall be able to see. The board on which my icon is painted with the two virgins is strong and fastened upon the pillar before the heron? as before and the board will not move. Then it will be like His previous act of creation, since it will be built by the command of the Lord.
+Saint Basil said, "While I was standing in prayer, a light sleep came upon me and I saw a shining woman standing before me. She said to me, 'O Basil, why are you troubled in your heart over the pillars? Or have you not heard the words of David, "The words of the unjust have overcome us; And You O Lord will forgive us our sins."[^1] And now behold! My son Jesus Christ will command the pillars to stand in their places in front of the wall of the sanctuary. As for the sorcerers, behold, they shall be able to see. The board on which my icon is painted with the two virgins is strong and fastened upon the pillar before the heron[^2] as before and the board will not move. Then it will be like His previous act of creation, since it will be built by the command of the Lord.
 
 "'And behold, I shall make a spring of water open beneath the pillar, and all who wash in it will be healed from every illness. Those people who practiced sorcery and were blinded as well as woman who was was seized by leprosy, when they went into the water and washed themselves in it, I made an abyss that stretched open its mouth and consumed them forever.
 
-"'And you, Basil, give gifts for the sake of the beautiful church and consecrate it on the 21st of *Sane*[^2], for it was on that day that my beloved son commanded His apostles to build a church for me.' And when she said this, Our Lady and the Mother of Our Lord hid herself from me.
+"'And you, Basil, give gifts for the sake of the beautiful church and consecrate it on the 21st of *Sane*[^3], for it was on that day that my beloved son commanded His apostles to build a church for me.' And when she said this, Our Lady and the Mother of Our Lord hid herself from me.
 
 "Awaking, I immediately went to the church and saw the two pillars standing there and the board of the icon was fastened to them. I also found that a spring of water had opened by the right wall of the sanctuary. Once morning came, the people gathered in the place where the pillars had been. When they did not find them there, they went to the church and saw the pllars standing in their positions with the board of the icon fixed upon them. They cried out with one voice, saying, 'O Lord, have mercy on us, Christ! Great is Your miracle, O Lord!' And all those gathered immersed themselves in the water and were healed of all their illnesses. But those who practiced sorcery became blind and were forced to feel around before the people and likewise a woman with leprosy, when they went and tried to wash themselves in the water, immediately an abyss devoured them. Their number was sixteen souls.
 
@@ -36,4 +36,5 @@ Saint Basil said, "While I was standing in prayer, a light sleep came upon me an
 May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
 
 [^1]: Psalm 64:3
-[^2]: June 28
+[^2]: unclear
+[^3]: June 28
