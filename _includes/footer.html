@@ -1,10 +1,31 @@
 <footer class="footer">
+  {% if page.collection == 'miracles' %}
+  <p class="content has-text-right is-pulled-right-tablet">
+    {% if include.clavis or include.pemm %}
+    {% if include.clavis %}
+    <span class="tag is-dark">
+      <abbr title="Clavis Aethiopica">CAe</abbr>
+      &nbsp;{{ include.clavis }}
+    </span>
+    {% endif %}
+    {% if include.pemm %}
+    <span class="tag is-dark">
+      <abbr title="Princeton Ethiopian Miracles of Mary Project">PEMM</abbr>
+      &nbsp;{{ include.pemm }}
+    </span>
+    {% endif %}
+    <br>
+    {% endif %}
+    <a id="export"><strong>Export Data</strong></a>
+  </p>
+  {% endif %}
+
   <p class="content">
     <strong>Selected miracles of the Virgin Mary, edited and translated by Augustine Dickinson.</strong>
     <br>
     <strong>Indices:</strong> <a href="{{ site.url }}/indices"><strong>All</strong></a> | <a href="{{ site.url }}/indices#people">People</a> | <a href="{{ site.url }}/indices#places">Places</a> | <a href="{{ site.url }}/indices#general">General</a>
   </p>
-  <p>
+  <p class="content">
     &copy;2021 Augustine Dickinson.
     <br>
     <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Available under the CC BY-NC-SA 4.0 License</a>.

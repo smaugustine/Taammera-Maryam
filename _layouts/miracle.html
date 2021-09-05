@@ -31,26 +31,59 @@
         </div>
       </div>
 
-      <div class="columns">
-        <div class="column is-8-desktop is-offset-2-desktop is-10-tablet is-offset-1-tablet has-text-right">
-          {% if page.clavis %}
-          <span class="tag is-dark">
-            <abbr title="Clavis Aethiopica">CAe</abbr>
-            &nbsp;{{ page.clavis }}
-          </span>
-          {% endif %}
-          {% if page.pemm %}
-          <span class="tag is-dark">
-            <abbr title="Princeton Ethiopian Miracles of Mary Project">PEMM</abbr>
-            &nbsp;{{ page.pemm }}
-          </span>
-          {% endif %}
-        </div>
-      </div>
     </div>
   </section>
 
-  {% include footer.html %}
+  {% include footer.html clavis=page.clavis pemm=page.pemm %}
+
+  <div id="export-data" class="modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+      <header class="modal-card-head">
+        <p class="modal-card-title">Export Data</p>
+        <button class="delete" aria-label="close"></button>
+      </header>
+      <section class="modal-card-body">
+<pre id="json-data">{
+  "links": {
+    "self": "{{ site.url }}{{ page.url }}"
+  },
+  "data": {
+    "type": "miracles",
+    "id": "{{ page.slug | xml_escape}}",
+    "attributes": {
+      "title": "{{ page.title | xml_escape}},{% if page.cycle %}"
+      "cycle": "{{ page.cycle | xml_escape }}",{% endif %}{% if page.clavis %}
+      "clavis": "{{ page.clavis }}",{% endif %}{% if page.pemm %}
+      "pemm": "{{ page.pemm }}",{% endif %}{% if page.people %}
+      "people": ["{{ page.people | join: '", "'}}"],{% endif %}{% if page.places %}
+      "places": ["{{ page.places | join: '", "'}}"],{% endif %}{% if page.general %}
+      "general": ["{{ page.general | join: '", "'}}"],{% endif %}
+      "content": "{{ page.content | strip_html | strip_newlines | xml_escape }}"
+    }
+  }
+}</pre>
+<pre id="xml-data" class="is-hidden">
+{{ '<?xml version="1.0" encoding="UTF-8"?>' | xml_escape }}
+{{ '<TEI xmlns="http://www.tei-c.org/ns/1.0">' | xml_escape }}
+  {{ '<title>' | xml_escape }}{{ page.title | xml_escape }}{{ '</title>' | xml_escape }}
+  {{ '<text>' | xml_escape }}{{ page.content | xml_escape }}{{ '</text>' | xml_escape }}
+{{ '</TEI>' | xml_escape }}
+</pre>
+<pre id="csv-data" class="is-hidden">
+id,title,{% if page.cycle %}cycle,{% endif %}{% if page.clavis %}clavis,{% endif %}{% if page.pemm %}pemm,{% endif %}{% if page.people %}people,{% endif %}{% if page.places %}places,{% endif %}{% if page.general %}general,{% endif %}content
+{{ page.slug | xml_escape}},"{{ page.title | xml_escape}}",{% if page.cycle %}"{{ page.cycle | xml_escape }}",{% endif %}{% if page.clavis %}{{ page.clavis }},{% endif %}{% if page.pemm %}{{ page.pemm }},{% endif %}{% if page.people %}"{{ page.people | join: ";" }}",{% endif %}{% if page.places %}"{{ page.places | join: ";" }}",{% endif %}{% if page.general %}"{{ page.general | join: ";" }}",{% endif %}{{ page.content | strip_html | strip_newlines | xml_escape }}
+</pre>
+      </section>
+      <footer class="modal-card-foot">
+        <div class="buttons has-addons is-centered">
+          <a id="export-json" class="is-info button">JSON</a>
+          <a id="export-xml" class="button">XML</a>
+          <a id="export-csv" class="button">CSV</a>
+        </div>
+      </footer>
+    </div>
+  </div>
 
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
   <script>
@@ -75,6 +108,26 @@
       });
       
       $('<div class="columns"/>').insertAfter($('article#content').parent().parent()).append($(footnotes));
+
+      
+      $(document).on('click', '#export', function() {
+        $('#export-data').addClass('is-active');
+        $('html').addClass('is-clipped');
+      });
+
+      $(document).on('click', '#export-data .modal-background, #export-data button', function() {
+        $('#export-data').removeClass('is-active');
+        $('html').removeClass('is-clipped');
+      });
+
+      $(document).on('click', 'a[id^="export-"]', function() {
+        var exportType = $(this).attr('id').substring(7);
+        $('pre').addClass('is-hidden');
+        $('.buttons a').removeClass('is-info');
+
+        $('#'+exportType+'-data').removeClass('is-hidden');
+        $(this).addClass('is-info');
+      });
       
     });
   </script>
