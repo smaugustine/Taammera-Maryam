@@ -1,5 +1,5 @@
 ---
-title: "8 Sane: How Christ Caused a Miraculous Spring of Water in Musturud"
+title: "How Christ Caused a Miraculous Spring of Water in Musturud (8 Sane)"
 pemm: 40
 clavis: 3670
 people: [Joseph, Jesus Christ, Salome]

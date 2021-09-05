@@ -57,7 +57,7 @@ general: [Liturgy of the Hours]
 
 A miracle of Our Lady, the holy twofold Virgin Mary, the Birth-giver of God. May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
 
-Listen, O children of the Church, to the power of the miracle of Our Lady, the holy twofold Virgin Mary, the Birth-giver of God, which she performed for those who dedicated themselves to her and served her with all their heart and served the *Liturgy of the Hours* of her beloved Giyorgis day and night.
+Listen, O children of the Church, to the power of the miracle of Our Lady, the holy twofold Virgin Mary, the Birth-giver of God, which she performed for those who dedicated themselves to her and served her with all their heart and chanted the *Liturgy of the Hours* of her beloved Giyorgis day and night.
 
 There was a certain monk who loved the Lord Most High with all his heart and all his strength. Our Lady Mary would often visit him because of his holiness and the purity of his mind.
 
@@ -75,9 +75,9 @@ One day, while Our Lady Mary was with him at the third hour of the day in the pl
 
   *Come, Virgin, with the angels, that you may lift up our prayer with your outstretched hands and bless us all!*
 
-As they were singing this, Our Lady, the holy twofold Virgin Mary, the Birth-giver of God, heard them and forgot that chosen monk. When they called to her with burning love, she stood in order to go to bless those gathered with the prophets and apostles as well as the assembly of saints and monks and martyrs and the entire assembly of vigilant angels. And the monk responded, saying to Our Lady, the holy twofold Virgin Mary, the Birth-giver of God, "Why and to whom are you going, O my Queen? You are leaving me. Is there another who loves you as I do? Is there another who shelters you out of the depths of his heart as I do?"
+As they were chanting this, Our Lady, the holy twofold Virgin Mary, the Birth-giver of God, heard them and forgot that chosen monk. When they called to her with burning love, she stood in order to go to bless those gathered along with the prophets and apostles as well as the assembly of saints and monks and martyrs and the entire assembly of vigilant angels. And the monk responded, saying to Our Lady, the holy twofold Virgin Mary, the Birth-giver of God, "Where and to whom are you going, O my Queen? You are leaving me. Is there another who loves you as I do? Is there another who shelters you out of the depths of his heart as I do?"
 
-And Our Lady Mary replied to the monk, saying, "I shall go where the assembly of the congregation of the Church calls me. I shall go where they call me in faith with my fathers, the prophets. I shall go where they call me in order to bless the congregation with my children, the apostles. I shall go where they call me in order to absolve their sins with my sons, the martyrs. Where they call me with the saints, my faithful, I shall go running and hurrying in order to lift up the prayer of the children of the Church to the throne of my son and His Father and His Holy Spirit."
+Our Lady Mary replied to the monk, saying, "I shall go where the assembly of the congregation of the Church calls to me. I shall go where they call to me in faith with my fathers, the prophets. I shall go where they call to me in order to bless the congregation with my children, the apostles. I shall go where they call to me in order to absolve their sins with my sons, the martyrs. Where they call to me with the saints, my faithful, I shall go running and hurrying in order to lift up the prayer of the children of the Church to the throne of my son and His Father and His Holy Spirit."
 
 When that chosen monk heard this, that every grace is given to the congregation of the Church which serves the Lord with a pure heart and upright mind, one which is without blemish or doubt, abandoning vengeance and resentfulness — as the prophet says in the words of the second Psalm, "Serve the Lord with fear and rejoice in Him with trembling; embrace wisdom lest the Lord be moved to anger and you perish from the path of righteousness"[^1] — he said to Our Lady Mary, "O my Queen, since every greatness and honour from you is given and comes to those who sing to you in the assembly of the congregation, I, from now on, shall not separate or depart from the service of the congregation of the Church until the day of my death."
 
@@ -91,8 +91,8 @@ May her prayer and blessing and the mercy of her beloved son be with us unto age
 >*And the mother of the victorious martyrs.*
 >*Thou art the might of the aid of the chosen saints' souls*
 >*And the strength of the endurance of contending monks.*
->*Just as you descended from the high place visited that monk,*
->*And just as you blessed the congregation of the church,*
+>*Just as you descended from the high place to visit that monk,*
+>*And just as you blessed the congregation of that church,*
 >*Those who served with upright minds without straying,*
 >*O Daughter of the Light,*
 >*Bless me, thy servant, with your hand as you blessed those blessed ones*
@@ -101,6 +101,6 @@ May her prayer and blessing and the mercy of her beloved son be with us unto age
 >*And with the shadow of your wings shelter me from the tumult of men and utterings of the tongue.*
 >*When thy son prepares the banquet on Mount Sion,*
 >*Prepare a place for me with your blessed sheep,*
->*I, thy servant, who seeks shelter in the aid of thy hope.*
+>*I, thy servant, who seeks shelter in the aid of thy promise.*
 
-[^1]: Ps. 2:11-12
+[^1]: Psalm 2:11-12
