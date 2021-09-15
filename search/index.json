@@ -1,0 +1,14 @@
+---
+---
+{
+  "documents": [
+    {% for miracle in site.miracles %}
+    {% assign body = miracle.content | strip_newlines | split: '<hr />' %}
+    {
+      "title": "{{ miracle.title }}",
+      "gzBody": "{{ body[0] | strip_html }}",
+      "enBody": "{{ body[1] | strip_html }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}

@@ -1,0 +1,15 @@
+---
+---
+title,cycle,clavis,pemm,content
+{% for miracle in site.miracles %}
+{{ miracle.title
+  | append: ","
+  | append: miracle.cycle
+  | append: ","
+  | append: miracle.clavis
+  | append: ","
+  | append: miracle.pemm
+  | append: ","
+  | append: miracle.content
+  | strip_html | strip_newlines }}
+{% endfor %}

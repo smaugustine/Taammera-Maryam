@@ -1,0 +1,53 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Miracles of Mary</title>
+        <respStmt>
+          <resp>Edited and translated by</resp>
+          <name>Augustine Dickinson</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority/>
+        <date>2021</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+
+  {% for miracle in site.miracles %}
+  <TEI xml:id="{{ miracle.slug | xml_escape }}">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>{{ miracle.title }}</title>
+          <respStmt>
+            <resp>Edited and translated by</resp>
+            <name>Augustine Dickinson</name>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <authority/>
+          <date>2021</date>
+          <availability>
+            <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license.</licence>
+          </availability>
+        </publicationStmt>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        {{ miracle.content }}
+      </body>
+    </text>
+  </TEI>
+  {% endfor %}
+
+ </teiCorpus>

@@ -1,0 +1,31 @@
+---
+title: Mary Tells Theophilus How Christ Caused a Miraculous Spring of Water in Egypt
+pemm: 1-B
+clavis: 5094
+people: [Theophilus of Alexandria (patriarch), Jesus Christ, Joseph, Salome]
+places: [Egypt]
+general: [idol, Gǝnbot]
+---
+ተአምሪሃ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፨ ጸሎታ፡ ወበረከታ፡ ወምሕረተ፡ ፍቁር፡ ወልዳ፡ የሀሉ፡ ምስሌነ፡ ለዓለመ፡ ዓለም፡ አሜን፨
+
+ወበዕለተ፡ ረቡዕ፡ መጽአት፡ ካዕበ፡ እግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪፡ ማርያም፡ ወላዲተ፡ አምላክ፡ አስተርአየቶ፡ ለቴዎፍሎስ፡ ወዜነወቶ፡ ዜና፡ ሰደታ፡ እንዘ፡ ትብል፨ በከመ፡ አስፈወቶ፡ በዕለት፡ ቀዳሚት፡ ወትቤሎ፡ ኦቴዎፍሎስ፡ ስማዕ፡ ዘእነግረከ፡
+
+ወሶበ፡ በጻሕነ፡ ብሔረ፡ ግብጽ፡ ነበርነ፡ በአፍአ፡ ሀገር፡ ታሕተ፡ ጽላሎተ፡ ዕፅ፡ ከመ፡ ናዕርፍ፡ እምዋዕየ፡ ሐሩር፡ እስመ፡ ሀጋይ፡ ውእቱ፡ አመ፡ ፳ወ፮፡ ለግንቦት፨ ወዮሴፍ፡ ወሰሎሜ፡ ኖሙ፡ እምድካመ፡ ፍኖት፤ ወአንሰ፡ አጠብዎ፡ ሐሊበ፡ ለሕፃን፤ ወአልባሲሁኒ፡ አምሳለ፡ ወይን፡ በከመ፡ አልባስየ፡ ዘአልበሱኒ፡ አበውየ፡ አመ፡ አብኡኒ፡ ቤተ፡ መቅደስ፨ ወእም፡ አመ፡ ለበስኩ፡ ኢያሰሰልኩ፡ እምላዕሌየ፨ ወአሣዕኒሁኒ፡ በአምሳለ፡ ወርቅ፡ ውስተ፡ እገሪሁ፡ ለወልድየ፡ ናሁ፡ ክልኤ፡ ፈያት፡ ኃለፉ፡ እንተ፡ ይእቲ፡ ፍኖት፡ ፩እምብሔረ፡ ግብጽ፡ ወካልኡ፡ እምብሔረ፡ እብራዊያን፨ ወይቤሎ፡ ግብጻዊ፡ ለካልኡ፡ አንሰ፡ እፈቅድ፡ እንሣእ፡ አልባሲሃ፡ ለዛቲ፡ ብእሲት፡ ወአልባሰ፡ ወልዳ፡ እስመ፡ ይመስል፡ አልባሰ፡ ነገሥት፨ ወሶበ፡ ረከብክዎሙ፡ በገዳም፡ እምነሣእኩ፡ ወባሕቱ፡ ጥቀ፡ ሀለዉ፡ ውስተ፡ ሀገር፨ ወይቤሎ፡ እብራዊ፡ ለካልኡ፡ ኅድግ፡ ንሑር፨ እስመ፡ ኢርኢኩ፡ ዘከመዝ፡ ሕፃን፡ እምአመ፡ ተፈጠርኩ፤ ወእንዘ፡ ከመዝ፡ ይትናገሩ፡ አውፅአ፡ ጥበ፡ እምአፉሁ፤ ወፈቀደ፡ አስተዮ፡ ማየ፡ ወነጸርኩ፡ አውድየ፡ ወኢረከብኩ፨ ወወሰድክዎ፡ ውስተ፡ ሀገር፡ ወሰአልክዎን፡ ለአንስት፡ ያስትያሁ፡ ማየ፡ ወአልቦ፡ ዘወሀበኒ፨ እስመ፡ አልቦሙ፡ ምሕረት፡ ለሰብአ፡ ውእቱ፡ ሀገር፤ ወርእዮሙ፡ ፈያት፡ ከመ፡ ሖርኩ፡ ውስተ፡ ሀገር፡ ገብኡ፡ ድኅሬሆሙ፡ ወሖሩ፡ ኀበ፡ ዮሴፍ፡ እንዘ፡ ይነውም፡ ወመሠጡ፡ አሣዕኒሁ፡ ለወልድየ፨ ወአነ፡ በከይኩ፡ ሶቤሃ፨ ወርእዮ፡ ፍቁር፡ ወልድየ፡ ብካይየ፡ ኃሠሠ፡ አንብዕየ፡ በእዴሁ፡ ወአውረደ፡ ንስቲተ፡ አጽባዕቶ፡ ውስተ፡ ምድር፡ ወነቅዓ፡ ማይ፡ ዘይውኅዝ፡ ወሰተይነ፡ እምኔሁ፡ ጥዑመ፡ ከመ፡ መዓር፡ ፀዓዳ፡ ከመ፡ ሐሊብ፨ ወአተቦ፡ ለውእቱ፡ ማይ፡ እንዘ፡ ይብል፡ ለይኩን፡ ዝንቱ፡ ማይ፡ ለኵሉ፡ ዘይሰትዮ፡ ወየኃልፍ፡ ፈውሰ፡ ወጥዒና፨ ወለሰብአ፡ ዛቲ፡ ሀገር፡ ይኩን፡ መሪረ፡ ውስተ፡ አፉሆሙ፡ ወኢይሕየው፡ ፩እምኔሆሙ፨ ወእምዝ፡ በላዕነ፡ ንስቲተ፡ ወጾርክዎ፡ ለፍቁር፡ ወልድየ፡ ወተንሣእነ፡ ከመ፡ ንሑር፡
+
+ወበጊዜሃ፡ ወድቁ፡ መኳርብቲሆሙ፡ ወኢተርፈ፡ ፩እምኔሆሙ፨ ወተሰብሩ፡ ጣዖቶሙ፡ ለለ፡ ክፍሎሙ፨ ወከማሁ፡ ኮኑ፡ አማልክቲሆሙ፡ ወድቁ፡ ፩፡ ላዕለ፡ ካልኡ፡ ወተሰብሩ፨ ወእንዘ፡ ነሐውር፡ መልዕልተ፡ ግብጽ፡ መጽኡ፡ አድባር፡ ወጾላእት፡ ወአራዊት፡ ወሰብሕዎ፡ ወሰገዱ፡ ለወልድየ፤ ወሶበ፡ ነሐውር፡ የሐውሩ፡ ምስሌነ፨ ወተመይጠ፡ ወልድየ፡ መንገሌሆሙ፡ ወወደየ፡ እዴሁ፡ ዘየማን፡ ውስተ፡ ደብር፡ ዘመንገለ፡ ጽባሕ፤ ወእዴሁ፡ ዘፀጋም፡ ውስተ፡ ድብር፡ ዘመንገለ፡ ምዕራብ፨ ወይቤሎሙ፡ ቁሙ፡ ወቆሙ፨ ወናሁ፡ አሰረ፡ እዴሁ፡ ውስተ፡ ኰኵሕ፡ ከመ፡ ዘጽቡር፡ ያስተርእዩ፡ እስከ፡ ዮም፡ ለሰብእ፨ ወይቤሎሙ፡ ኩኑ፡ ትእምርተ፡ ለእለ፡ ኢየአምኑ፡ ብየ፡ ወይክህዱ፡ ምጽአትየ፨ ወለረሲአን፡ አይሁድ፡ ወለሄሮድስ፡ ርጉም፡ ወለመንግሥቱ፡ ወለኵሉ፡ ዘኢያአምን፡ በስምየ፡ ቅዱስ፨ ወይቤሎሙ፡ አንትሙ፡ አድባር፡ አእመርክሙኒ፡ ወአመንክሙ፡ ብየ፡ እለ፡ አልብክሙ፡ ነፍስ፡ ወሥጋ፨ ወእለ፡ ቦሙ፡ ነፍስ፡ ወሥጋ፡ ኢአመኑኒ፨ ወነገሥትኒ፡ እለ፡ ፈጠርክዎሙ፡ በአርአያየ፡ ወበአምሳልየ፡ ኢገነዩ፡ ለስብሐትየ፨ ወአነሂ፡ መጻእኩ፡ በእንቲአሆሙ፡ ኢአመኑኒ፤ እስመ፡ መጻእኩ፡ ውስተ፡ ዓለም፡ ወኢያክበሩኒ፡ ወኢተወክፉኒ፨ ዳእሙ፡ ኃሠሡኒ፡ ይቅትሉኒ፡ እስከ፡ በጻሕኩ፡ ውስተ፡ ዝንቱ፡ ብሔር፨ ወከመዝ፡ የሀሉ፡ ስምየ፡ ወስመ፡ እምየ፡ ንጽሕት፡ በዕበይ፡ ወበስብሐት፡ እስከ፡ ትውልደ፡ ትውልድ፨
+
+ኦፍቁርየ፡ ቴዎፍሎስ፡ ወነዋ፡ ነገርኩከ፡ ዘሀሎ፡ እስከ፡ ዝየ፡ ወካዕበ፡ መጽአ፡ ደቤከ፡ ከማሁ፡ ወእነግረከ፡ ካልአ፡ ነገር፡ ወዘንተ፡ በሂላ፡ ተሠወረ፡ እምኔሁ፨
+
+ጸሎታ፡ ወበረከታ፡ ወምሕረተ፡ ፍቁር፡ ወልዳ፡ የሀሉ፡ ምስሌነ፡ ለዓለመ፡ ዓለም፡ አሜን፨
+
+----
+
+A miracle of Our Lady, the holy twofold Virgin Mary, the Birth-giver of God. May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
+
+And when we arrived in the land of Egypt, we sat outside a city under the shade of a tree so that we might rest from the warmth of the intense heat, for it was summer, which begins on the 26th of *Gǝnbot*.[^1] And Joseph and Salome slept due to the exhaustion of travel, but I suckled the child with milk. And his clothes were wine-coloured, like mine, which my parents dressed me in when they brought me to the temple. And, since the time that I put them on, I have never removed them. And His sandals resembled gold upon my son’s feet. Now two thieves were passing by on this road, one from the land of Egypt, and one from the land of the Hebrews. And the Egyptian said to the other, “I want to take the clothes of this woman and the clothes of her son because they look like the clothes of kings. If I were to find them in the desert, then I would take them, however, they are very near to the city.” And the Hebrew said to the other, “Leave (them) and let us go, for I have never seen a child like this since the time that I was born.” While they were saying this, I took my breast out of his mouth and I wanted him to drink water. And I looked around me and did not find (any). And I brought Him to the city and asked the women to give Him water to drink, but they had none to give me, for the people of that city had no mercy. And the thieves saw that I had gone to the city and they came back behind them and went to where Joseph was sleeping and they stole my son’s sandals. And I cried immediately. And my beloved son saw my crying and sought (wipe) my tears with his hand. And He put His fingers into the ground a little and water gushed out, which flowed, and we drank from it. Its taste was like honey and it was white like milk. And He made the sign of the cross over the water, saying, “Let this water be to all who drink it or who passes by (a source of) healing and health. But for the men of this city, let it be bitter in their mouths and not one of them will be healed.” Then we ate a little and I carried my beloved son and we got up to go.
+
+And immediately their temples fell and not one of them remained. And their idols were broken, each into pieces. And, similarly, their gods fell, one upon the other, and were broken. And as we were going up through Egypt, the mountains and boulders and beasts came and praised him and bowed to my son. And when we were going, they came with us. And my son turned toward them and placed his right hand on the mountain which was to the east and his left hand on the mountain which was to the west and said to them, “Stand!” and they stood. And, behold, His hand fastened the stone like clay and they appear (like this) to men to this day. And He said to them, “Be a sign to (those) who do not believe in me and reject my coming and to the impious Jews and to cursed Herod and to his kingdom and to all who do not believe in my holy name. And he said to them, “You mountains, you have acknowledged Me and believed in Me, you who lack soul and body. But those who have soul and body have not acknowledged Me. The kings whom I have created in my image and likeness do not bow to my glory. And I came for their sake but they do not believe in me. For I came into the world and they did not honour me or receive me. Indeed, they have sought me in order to kill me, such that I arrived in this land. And thus my name and the name of my pure mother will be great and praised unto the generations of generations.
+
+May her prayer and blessing and the mercy of her beloved son be with us unto ages of ages, amen.
+
+[^1]: 

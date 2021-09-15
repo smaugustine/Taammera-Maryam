@@ -1,30 +1,17 @@
 <footer class="footer">
-  {% if page.collection == 'miracles' %}
+
   <p class="content has-text-right is-pulled-right-tablet">
-    {% if include.clavis or include.pemm %}
-    {% if include.clavis %}
-    <span class="tag is-dark">
-      <abbr title="Clavis Aethiopica">CAe</abbr>
-      &nbsp;{{ include.clavis }}
-    </span>
-    {% endif %}
-    {% if include.pemm %}
-    <span class="tag is-dark">
-      <abbr title="Princeton Ethiopian Miracles of Mary Project">PEMM</abbr>
-      &nbsp;{{ include.pemm }}
-    </span>
-    {% endif %}
-    <br>
-    {% endif %}
-    <a id="export"><strong>Export Data</strong></a>
+    <strong>API:</strong> <a href="{{ site.url }}/api/Taammera-Maryam.json">JSON</a> | <a href="{{ site.url }}/api/Taammera-Maryam.xml">XML</a> | <a href="{{ site.url }}/api/Taammera-Maryam.csv">CSV</a>
   </p>
-  {% endif %}
 
   <p class="content">
     <strong>Selected miracles of the Virgin Mary, edited and translated by Augustine Dickinson.</strong>
     <br>
+    <a href="{{ site.url }}/search"><strong>Search</strong></a>
+    <br>
     <strong>Indices:</strong> <a href="{{ site.url }}/indices"><strong>All</strong></a> | <a href="{{ site.url }}/indices#people">People</a> | <a href="{{ site.url }}/indices#places">Places</a> | <a href="{{ site.url }}/indices#general">General</a>
   </p>
+
   <p class="content">
     &copy;2021 Augustine Dickinson.
     <br>
@@ -32,4 +19,5 @@
     <br>
     Contents may be used for <u>non-commercial</u> purposes with <u>proper attribution</u>.
   </p>
+
 </footer>

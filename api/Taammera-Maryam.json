@@ -1,0 +1,22 @@
+---
+---
+{
+  "data": [
+    {% for miracle in site.miracles %}
+    {
+      "type": "miracles",
+      "id": "{{ miracle.slug | xml_escape }}",
+      "attributes": {
+        "title": "{{ miracle.title | xml_escape  }}",{% if miracle.cycle %}
+        "cycle": "{{ miracle.cycle | xml_escape }}",{% endif %}{% if miracle.clavis %}
+        "clavis": "{{ miracle.clavis }}",{% endif %}{% if miracle.pemm %}
+        "pemm": "{{ miracle.pemm }}",{% endif %}{% if miracle.people %}
+        "people": ["{{ miracle.people | join: '", "' }}"],{% endif %}{% if miracle.places %}
+        "places": ["{{ miracle.places | join: '", "' }}"],{% endif %}{% if miracle.general %}
+        "general": ["{{ miracle.general | join: '", "' }}"],{% endif %}
+        "content": "{{ miracle.content | strip_html | strip_newlines | xml_escape }}"
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}

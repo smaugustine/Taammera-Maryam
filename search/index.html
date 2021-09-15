@@ -1,0 +1,49 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html title="Search the Miracles of Mary" %}
+  </head>
+  <body>
+  <section class="section">
+    <div class="container">
+      <div class="columns is-multiline">
+        <div class="column is-2-desktop is-1-tablet has-text-right-tablet">
+          <a href="{{ site.url }}" class="button is-link is-outlined">
+            &larr;
+            <span class="is-hidden-tablet-only">All Miracles</span>
+          </a>
+        </div>
+        <div class="column is-8-desktop is-10-tablet">
+          <div class="content">
+            <h1 class="title">Search</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% include footer.html %}
+  
+  <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js" integrity="sha256-DFDZACuFeAqEKv/7Vnu1Tt5ALa58bcWZegGGFNgET8g=" crossorigin="anonymous"></script>
+  <script>
+    var idx;
+
+    fetch('./index.json')
+    .then(response => response.json())
+    .then(data => {
+      idx = lunr(function() {
+        this.ref('title');
+        this.field('gzBody');
+        this.field('enBody');
+
+        data.documents.forEach(function(doc) {
+          this.add(doc)
+        }, this);
+      });
+    });
+  </script>
+
+  </body>
+</html>
