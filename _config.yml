@@ -37,6 +37,11 @@ defaults:
       cycle: "The Miracles of Mary from the Synaxary"
   -
     scope:
+      path: "_miracles/thecla/*"
+    values:
+      cycle: "Thecla the Martyr"
+  -
+    scope:
       path: "_miracles/theophilus/*"
     values:
       cycle: "The Vision of Theophilus"

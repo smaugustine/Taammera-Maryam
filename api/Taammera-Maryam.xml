@@ -22,7 +22,8 @@
     </fileDesc>
   </teiHeader>
 
-  {% for miracle in site.miracles %}
+  {% assign miracles = site.miracles | where_exp:"miracle","miracle.slug != 'index'" %}
+  {% for miracle in miracles %}
   <TEI xml:id="{{ miracle.slug | xml_escape }}">
     <teiHeader>
       <fileDesc>

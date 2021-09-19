@@ -1,8 +1,9 @@
 ---
 ---
+{% assign miracles = site.miracles | where_exp:"miracle","miracle.slug != 'index'" %}
 {
   "data": [
-    {% for miracle in site.miracles %}
+    {% for miracle in miracles %}
     {
       "type": "miracles",
       "id": "{{ miracle.slug | xml_escape }}",

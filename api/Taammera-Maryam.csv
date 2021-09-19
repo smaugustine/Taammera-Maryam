@@ -1,7 +1,8 @@
 ---
 ---
+{% assign miracles = site.miracles | where_exp:"miracle","miracle.slug != 'index'" %}
 title,cycle,clavis,pemm,content
-{% for miracle in site.miracles %}
+{% for miracle in miracles %}
 {{ miracle.title
   | append: ","
   | append: miracle.cycle

@@ -1,6 +1,21 @@
 <footer class="footer">
 
   <p class="content has-text-right is-pulled-right-tablet">
+    {% if include.clavis %}
+    <span class="tag is-dark">
+      <abbr title="Clavis Aethiopica">CAe</abbr>
+      &nbsp;{{ include.clavis }}
+    </span>
+    {% endif %}
+    {% if include.pemm %}
+    <span class="tag is-dark">
+      <abbr title="Princeton Ethiopian Miracles of Mary Project">PEMM</abbr>
+      &nbsp;{{ include.pemm }}
+    </span>
+    {% endif %}
+    {% if include.clavis or include.pemm %}
+    <br>
+    {% endif %}
     <strong>API:</strong> <a href="{{ site.url }}/api/Taammera-Maryam.json">JSON</a> | <a href="{{ site.url }}/api/Taammera-Maryam.xml">XML</a> | <a href="{{ site.url }}/api/Taammera-Maryam.csv">CSV</a>
   </p>
 
