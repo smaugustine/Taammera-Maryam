@@ -1,4 +1,4 @@
 ---
-title: Thecla the Martyr
+title: The Martyrdom of Thecla and Paese
 layout: cycle-index
 ---

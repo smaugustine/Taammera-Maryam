@@ -34,7 +34,7 @@ defaults:
     scope:
       path: "_miracles/thecla/*"
     values:
-      cycle: "Thecla the Martyr"
+      cycle: "The Martyrdom of Thecla and Paese"
   -
     scope:
       path: "_miracles/theophilus/*"

@@ -2,7 +2,7 @@
 title: The Abbot Who Rejected the Liturgy of the Hours of Abba Giyorgis
 pemm: 364
 clavis: 5236
-people: ["Giyorgis, Abba (hymnographer)", Adam (patriarch), Abraham (patriarch), Moses (patriarch), John (apostle), Joseph (of Arimathea), Nicodemus, Peter (apostle), Matthias (apostle), Paul (apostle), Basil of Caesarea (archbishop), Gregory (archbishop), John Chrysostom (archbishop), Stephen (martyr), George (martyr), Basilides (martyr), Theodore (martyr), Claudius (martyr), Justus (martyr), Apoli (martyr), Victor (martyr), Mercurius (martyr), Peter of Alexandria (patriarch), Paul (ascetic), Anthony (ascetic), Macarius (ascetic), Shenoute (ascetic), Paisius (ascetic), Cyrus (ascetic), Anna, Elizabeth, Salome, Mary Magdalene, Sophia (martyr), Eupraxia, Antolia, Theocleia, Barbara, Julianna, Marina, Thecla, Eve, Edna, Sarah, Rebecca, Rachel, Deborah, Judith, Esther]
+people: ["Giyorgis, Abba (hymnographer)", Adam (patriarch), Abraham (patriarch), Moses (patriarch), John (apostle), Joseph (of Arimathea), Nicodemus, Peter (apostle), Matthias (apostle), Paul (apostle), Basil of Caesarea (archbishop), Gregory (archbishop), John Chrysostom (archbishop), Stephen (martyr), George (martyr), Basilides (martyr), Theodore (martyr), Claudius (martyr), Justus (martyr), Apoli (martyr), Victor (martyr), Mercurius (martyr), Peter of Alexandria (patriarch), Paul (ascetic), Anthony (ascetic), Macarius (ascetic), Shenoute (ascetic), Paisius (ascetic), Cyrus (ascetic), Anna, Elizabeth, Salome, Mary Magdalene, Sophia (martyr), Eupraxia, Antolia, Theocleia, Barbara, Julianna, Marina, Thecla (martyr), Eve, Edna, Sarah, Rebecca, Rachel, Deborah, Judith, Esther]
 ---
 ተአምሪሃ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፨ ጸሎታ፡ ወበረከታ፡ ወምሕረተ፡ ፍቁር፡ ወልዳ፡ የሀሉ፡ ምስሌነ፡ ለዓለመ፡ ዓለም፡ አሜን፨
 

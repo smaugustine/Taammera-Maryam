@@ -14,7 +14,7 @@
       </titleStmt>
       <publicationStmt>
         <authority/>
-        <date>2021</date>
+        <date>{{ site.time | date: '%Y' }}</date>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license.</licence>
         </availability>
@@ -36,7 +36,7 @@
         </titleStmt>
         <publicationStmt>
           <authority/>
-          <date>2021</date>
+          <date>{{ site.time | date: '%Y' }}</date>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license.</licence>
           </availability>
